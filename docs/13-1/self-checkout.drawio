@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="VirEZYoq2XGR0ltIvUsY">
+    <mxGraphModel dx="432" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LuN_UhxJyeK3D6ukdj8p-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="お客さん" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="LuN_UhxJyeK3D6ukdj8p-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="セルフレジ" vertex="1">
+          <mxGeometry height="260" width="360" x="170" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LuN_UhxJyeK3D6ukdj8p-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="商品を読み取る" vertex="1">
+          <mxGeometry height="100" width="310" x="195" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="LuN_UhxJyeK3D6ukdj8p-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="支払う" vertex="1">
+          <mxGeometry height="100" width="310" x="195" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="LuN_UhxJyeK3D6ukdj8p-8" edge="1" parent="1" source="LuN_UhxJyeK3D6ukdj8p-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;entryX=0.006;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" target="LuN_UhxJyeK3D6ukdj8p-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuN_UhxJyeK3D6ukdj8p-9" edge="1" parent="1" source="LuN_UhxJyeK3D6ukdj8p-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="LuN_UhxJyeK3D6ukdj8p-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
