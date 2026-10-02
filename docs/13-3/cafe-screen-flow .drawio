@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="4nHL1njfo2f4G4sgGN1X" name="ページ-1">
-        <mxGraphModel dx="936" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1081" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -110,6 +110,24 @@
                 </mxCell>
                 <mxCell id="_Q-zLYN0gjnNY2JUgRbo-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" value="注文の状況を見るを押す" vertex="1">
                     <mxGeometry height="30" width="90" x="370" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="np_H3dEXKCkh2aUmnZMq-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FFFF00;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="360" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="np_H3dEXKCkh2aUmnZMq-3" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FFFF00;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="70" y="770" as="geometry"/>
+                </mxCell>
+                <mxCell id="np_H3dEXKCkh2aUmnZMq-4" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FFFF00;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="666" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="np_H3dEXKCkh2aUmnZMq-5" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FFFF00;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="280" y="880" as="geometry"/>
+                </mxCell>
+                <mxCell id="np_H3dEXKCkh2aUmnZMq-8" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FFFF00;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="70" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="5WXRramHM3qJqeFE9FlR-4" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FFFF00;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="70" y="240" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
