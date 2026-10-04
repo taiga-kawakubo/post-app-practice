@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="JDaDoZieU_m8iOY5Twz5" name="ページ-1">
+        <mxGraphModel dx="518" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="HW68LJ1zaltAmS2My-Tx-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="users" vertex="1">
+                    <mxGeometry height="40" width="220" x="70" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="HW68LJ1zaltAmS2My-Tx-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="categories" vertex="1">
+                    <mxGeometry height="40" width="220" x="470" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="HW68LJ1zaltAmS2My-Tx-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="posts" vertex="1">
+                    <mxGeometry height="40" width="220" x="280" y="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="HW68LJ1zaltAmS2My-Tx-10" edge="1" parent="1" source="HW68LJ1zaltAmS2My-Tx-2" style="fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;exitX=0.569;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="HW68LJ1zaltAmS2My-Tx-4" value="">
+                    <mxGeometry height="100" relative="1" width="100" as="geometry">
+                        <mxPoint x="370" y="360" as="sourcePoint"/>
+                        <mxPoint x="470" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="HW68LJ1zaltAmS2My-Tx-11" edge="1" parent="1" source="HW68LJ1zaltAmS2My-Tx-3" style="fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="HW68LJ1zaltAmS2My-Tx-4" value="">
+                    <mxGeometry height="100" relative="1" width="100" as="geometry">
+                        <mxPoint x="380" y="150" as="sourcePoint"/>
+                        <mxPoint x="530" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="HW68LJ1zaltAmS2My-Tx-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=0;" value="一人のユーザーは&lt;div&gt;複数の投稿を持つ&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="30" width="160" x="170" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="HW68LJ1zaltAmS2My-Tx-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=0;" value="一人のカテゴリは&lt;div&gt;複数の投稿を持つ&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="30" width="160" x="414" y="240" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
