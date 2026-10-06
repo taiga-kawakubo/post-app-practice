@@ -12,6 +12,9 @@
 |updated_at|TIMESTAMP|-|更新した日時|
 
 
+&nbsp;
+&nbsp;
+
 
 ### orders_table(注文)
 | カラム名 | データ型  | 制約  | 説明  |
@@ -25,6 +28,8 @@
 |updated_at|TIMESTAMP|-|更新した日時|
 
 
+&nbsp;
+&nbsp;
 
 ### order_items_table(注文詳細)
 | カラム名 | データ型  | 制約  | 説明  |
